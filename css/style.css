@@ -313,9 +313,9 @@ ol.type li a:hover {
 #location {
   display: inline-block;
   vertical-align: middle;
+  margin: 10px;
 
 }
-.mapouter {}
 
 /* Contact Section */
 #contact {
