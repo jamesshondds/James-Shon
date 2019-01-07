@@ -297,14 +297,30 @@ ol.type li a:hover {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
+/* Services Section */
 #services i.fa {
 	font-size: 20px;
 	padding: 5px;
 	color: #E87E04;
 }
+/* Locations Section */
+#locations {
+	padding: 120px 0;
+}
+.maps {
+	text-align: center;
+}
+#location {
+  display: inline-block;
+  vertical-align: middle;
+
+}
+.mapouter {}
+
 /* Contact Section */
 #contact {
 	padding: 120px 0 60px 0;
+	background: #f6f6f6;
 }
 #contact h3 {
 	padding-top: 20px;
