@@ -307,14 +307,13 @@ ol.type li a:hover {
 #locations {
 	padding: 120px 0;
 }
-.maps {
+.map{
 	text-align: center;
 }
 #location {
-  display: inline-block;
-  vertical-align: middle;
-  margin: 10px;
-
+	display: inline-block;
+	vertical-align: middle;
+	margin: 10px;
 }
 
 /* Contact Section */
