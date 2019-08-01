@@ -26,7 +26,8 @@ h5 {
 	line-height: 20px;
 }
 p.intro {
-	font-size: 16px;
+	font-size: 40px;
+	color: #a9a9a9;
 	margin: 12px 0 0;
 	line-height: 24px;
 }
@@ -415,9 +416,4 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 #footer a:hover {
 	color: #000;
-}
-
-.practice-title {
-	font-size: 40px;
-	color: #a9a9a9;
 }
