@@ -26,8 +26,7 @@ h5 {
 	line-height: 20px;
 }
 p.intro {
-	font-size: 40px;
-	color: #a9a9a9;
+	font-size: 16px;
 	margin: 12px 0 0;
 	line-height: 24px;
 }
@@ -169,7 +168,8 @@ hr {
 	color: #333;
 }
 .intro p {
-	font-size: 20px;
+	font-size: 40px;
+	color: #a9a9a9;
 	margin-bottom: 40px;
 	margin-top: 20px;
 }
