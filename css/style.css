@@ -416,3 +416,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #footer a:hover {
 	color: #000;
 }
+
+.practice-title {
+	font-size: 40px;
+	color: #a9a9a9;
+}
